@@ -3,8 +3,8 @@ Self-Driving Car using udacity's Car Sim
 I used a Deep Neural Network to clone car driving behavior in this project. It is a supervised regression problem between the car steering angles and the road images, speed, etc of a car.
 Those images were taken from three camera angles (from the center, the left, and the right from the car).
 
-This Deep Learning model took inspiration from NVIDIA's [Paper](https://arxiv.org/pdf/1604.07316)
-The Simulator used for this task is downloaded from Udacity's [Repo](https://github.com/udacity/self-driving-car-sim.git)
+This Deep Learning model took inspiration from NVIDIA's [Paper](https://arxiv.org/pdf/1604.07316).
+The Simulator used for this task is downloaded from Udacity's [Repo](https://github.com/udacity/self-driving-car-sim.git).
 
 
 ### Files included
